@@ -2,11 +2,11 @@
   "version": "0.1",
   "name": "Open Web App",
   "description": "Your new awesome Open Web App",
-  "launch_path": "/app-template/index.html",
+  "launch_path": "/pdemanget/mdn-app-template/master/index.html",
   "icons": {
-    "16": "/app-template/app-icons/icon-16.png",
-    "48": "/app-template/app-icons/icon-48.png",
-    "128": "/app-template/app-icons/icon-128.png"
+    "16": "/pdemanget/mdn-app-template/master/app-icons/icon-16.png",
+    "48": "/pdemanget/mdn-app-template/master/app-icons/icon-48.png",
+    "128": "/pdemanget/mdn-app-template/master/app-icons/icon-128.png"
   },
   "developer": {
     "name": "Your Name",
